@@ -1,0 +1,242 @@
+{
+	"_id" : 7,
+	"name" : "Salena Olmos",
+	"scores" : [
+		{
+			"type" : "exam",
+			"score" : 90.37826509157176
+		},
+		{
+			"type" : "quiz",
+			"score" : 42.48780666956811
+		},
+		{
+			"type" : "homework",
+			"score" : 67.18328596625217
+		},
+		{
+			"type" : "homework",
+			"score" : 96.52986171633331
+		}
+	]
+}
+{
+	"_id" : 13,
+	"name" : "Jessika Dagenais",
+	"scores" : [
+		{
+			"type" : "exam",
+			"score" : 90.47179954427436
+		},
+		{
+			"type" : "quiz",
+			"score" : 90.3001402468489
+		},
+		{
+			"type" : "homework",
+			"score" : 95.17753772405909
+		},
+		{
+			"type" : "homework",
+			"score" : 78.18795058912879
+		}
+	]
+}
+{
+	"_id" : 32,
+	"name" : "Gwen Honig",
+	"scores" : [
+		{
+			"type" : "exam",
+			"score" : 87.14345376886205
+		},
+		{
+			"type" : "quiz",
+			"score" : 99.45824441135635
+		},
+		{
+			"type" : "homework",
+			"score" : 35.3788193463544
+		},
+		{
+			"type" : "homework",
+			"score" : 76.66460454219344
+		}
+	]
+}
+{
+	"_id" : 47,
+	"name" : "Kurtis Jiles",
+	"scores" : [
+		{
+			"type" : "exam",
+			"score" : 92.96916908741805
+		},
+		{
+			"type" : "quiz",
+			"score" : 22.86854192921203
+		},
+		{
+			"type" : "homework",
+			"score" : 12.10418920555013
+		},
+		{
+			"type" : "homework",
+			"score" : 31.89793879453222
+		}
+	]
+}
+{
+	"_id" : 54,
+	"name" : "Joel Rueter",
+	"scores" : [
+		{
+			"type" : "exam",
+			"score" : 87.53636893952853
+		},
+		{
+			"type" : "quiz",
+			"score" : 92.70974674256513
+		},
+		{
+			"type" : "homework",
+			"score" : 61.79032586247813
+		},
+		{
+			"type" : "homework",
+			"score" : 2.926650636099537
+		}
+	]
+}
+{
+	"_id" : 64,
+	"name" : "Whitley Fears",
+	"scores" : [
+		{
+			"type" : "exam",
+			"score" : 89.61845831842888
+		},
+		{
+			"type" : "quiz",
+			"score" : 82.44879156010508
+		},
+		{
+			"type" : "homework",
+			"score" : 92.2308421188758
+		},
+		{
+			"type" : "homework",
+			"score" : 96.57912148645883
+		}
+	]
+}
+{
+	"_id" : 72,
+	"name" : "Leonida Lafond",
+	"scores" : [
+		{
+			"type" : "exam",
+			"score" : 92.10605086888438
+		},
+		{
+			"type" : "quiz",
+			"score" : 32.66022211621239
+		},
+		{
+			"type" : "homework",
+			"score" : 38.22914395140913
+		},
+		{
+			"type" : "homework",
+			"score" : 82.15588797092647
+		}
+	]
+}
+{
+	"_id" : 98,
+	"name" : "Carli Ector",
+	"scores" : [
+		{
+			"type" : "exam",
+			"score" : 88.18040268522668
+		},
+		{
+			"type" : "quiz",
+			"score" : 60.3111085581054
+		},
+		{
+			"type" : "homework",
+			"score" : 10.27537091986367
+		},
+		{
+			"type" : "homework",
+			"score" : 96.33612053785647
+		}
+	]
+}
+{
+	"_id" : 153,
+	"name" : "Barker David",
+	"scores" : [
+		{
+			"type" : "exam",
+			"score" : 91.38690728885123
+		},
+		{
+			"type" : "quiz",
+			"score" : 39.98831767858929
+		},
+		{
+			"type" : "homework",
+			"score" : 22.4218288031231
+		},
+		{
+			"type" : "homework",
+			"score" : 51.59702098442595
+		}
+	]
+}
+{
+	"_id" : 160,
+	"name" : "Chandler Tod",
+	"scores" : [
+		{
+			"type" : "exam",
+			"score" : 89.14702404133767
+		},
+		{
+			"type" : "quiz",
+			"score" : 11.85715160788611
+		},
+		{
+			"type" : "homework",
+			"score" : 26.58243041911046
+		},
+		{
+			"type" : "homework",
+			"score" : 87.70817474845785
+		}
+	]
+}
+{
+	"_id" : 174,
+	"name" : "Frye Paul",
+	"scores" : [
+		{
+			"type" : "exam",
+			"score" : 91.51968055194875
+		},
+		{
+			"type" : "quiz",
+			"score" : 50.37682668957234
+		},
+		{
+			"type" : "homework",
+			"score" : 51.53939113583016
+		},
+		{
+			"type" : "homework",
+			"score" : 34.42622923380332
+		}
+	]
+}

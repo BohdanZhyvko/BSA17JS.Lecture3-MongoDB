@@ -21,3 +21,26 @@
 	],
 	"accepted" : "true"
 }
+{
+	"_id" : 2001,
+	"name" : "Dusti Lemmond",
+	"scores" : [
+		{
+			"type" : "exam",
+			"score" : 76.84555652243097
+		},
+		{
+			"type" : "quiz",
+			"score" : 28.028382208262382
+		},
+		{
+			"type" : "homework",
+			"score" : 62.46944003411778
+		},
+		{
+			"type" : "homework",
+			"score" : 78.73446824963553
+		}
+	],
+	"accepted" : "true"
+}
